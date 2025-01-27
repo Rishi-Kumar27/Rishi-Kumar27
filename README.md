@@ -1,3 +1,4 @@
+![logo](https://github.com/Rishi-Kumar27/Rishi-Kumar27/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 

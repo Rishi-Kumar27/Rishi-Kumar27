@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-kumar27&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-kumar27" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/rishi-kumar-0a4a69288](www.linkedin.com/in/rishi-kumar-0a4a69288)
 
